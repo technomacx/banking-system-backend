@@ -1,0 +1,17 @@
+{
+  "name": "banking-system-backend",
+  "version": "1.0.0",
+  "description": "Banking System Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "engine": "12.10.0",
+  "author": "technomacx",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
